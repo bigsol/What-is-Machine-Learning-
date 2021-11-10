@@ -27,3 +27,7 @@ You express rules in a programming language. They act on data and your program p
 <text>So, if you go back to this diagram:</text>
 
 ![image](https://user-images.githubusercontent.com/51197053/141088490-e07b8f89-f4fd-4d70-ae69-d2631c01b965.png)
+
+<text>Consider the result of that to be a model, which is used like this at runtime:</text>
+
+![image](https://user-images.githubusercontent.com/51197053/141088902-242c268e-4ecb-4268-a93c-9304b8de7208.png)
