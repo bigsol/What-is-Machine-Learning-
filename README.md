@@ -19,3 +19,5 @@ You express rules in a programming language. They act on data and your program p
 ![image](https://user-images.githubusercontent.com/51197053/141087560-f3854579-5fbf-4d49-9380-ea2907a36e83.png)
 
 <text><b>You gather lots of data and label</b> it to effectively say, "This is what walking looks like," or "This is what running looks like." Then, the computer can infer the rules that determine, from the data, what the distinct patterns that denote a particular activity are.</text>
+
+<text>Beyond being an alternative method to programming that scenario, that approach also gives you the ability to open new scenarios, such as the golfing one that may not have been possible under the rules-based traditional programming approach.</text>
