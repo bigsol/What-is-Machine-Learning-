@@ -31,3 +31,5 @@ You express rules in a programming language. They act on data and your program p
 <text>Consider the result of that to be a model, which is used like this at runtime:</text>
 
 ![image](https://user-images.githubusercontent.com/51197053/141088902-242c268e-4ecb-4268-a93c-9304b8de7208.png)
+
+<text>You pass the model some data and the model uses the rules that it inferred from the training to make a prediction, such as, "That data looks like walking," or "That data looks like biking."</text>
