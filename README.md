@@ -12,3 +12,5 @@ You express rules in a programming language. They act on data and your program p
 <p>The process for detecting that activity status via ML is very similar, only the axes are different.</p>
 
 ![image](https://user-images.githubusercontent.com/51197053/141086128-e4c6d9f1-247a-4410-a941-bef9f434ca7e.png)
+
+<text>Instead of trying to define the rules and express them in a programming language, you provide the answers (typically called labels) along with the data, and the machine infers the rules that determine the relationship between the answers and data. For example, your activity detection scenario might look like this in an ML context:</text>
