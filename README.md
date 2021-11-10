@@ -8,3 +8,7 @@ Consider the traditional manner of building apps, as represented in the followin
 <text>
 You express rules in a programming language. They act on data and your program provides answers**.** In the case of the activity detection, the rules (the code you wrote to define activity types) acted upon the data (the person's movement speed) to produce an answer: the return value from the function for determining the activity status of the user (whether they were walking, running, biking, or doing something else).
 </text>  
+
+The process for detecting that activity status via ML is very similar, only the axes are different.
+
+![image](https://user-images.githubusercontent.com/51197053/141086128-e4c6d9f1-247a-4410-a941-bef9f434ca7e.png)
