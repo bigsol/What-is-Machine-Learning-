@@ -21,3 +21,9 @@ You express rules in a programming language. They act on data and your program p
 <text><b>You gather lots of data and label</b> it to effectively say, "This is what walking looks like," or "This is what running looks like." Then, the computer can infer the rules that determine, from the data, what the distinct patterns that denote a particular activity are.</text>
 
 <text>Beyond being an alternative method to programming that scenario, that approach also gives you the ability to open new scenarios, such as the golfing one that may not have been possible under the rules-based traditional programming approach.</text>
+
+<text>In traditional programming, your code compiles into a binary that is typically called a program. In ML, the item that you create from the data and labels is called a model.</text>
+
+<text>So, if you go back to this diagram:</text>
+
+![image](https://user-images.githubusercontent.com/51197053/141088490-e07b8f89-f4fd-4d70-ae69-d2631c01b965.png)
