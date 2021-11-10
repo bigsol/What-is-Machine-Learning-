@@ -4,3 +4,7 @@ What is Machine Learning?
 Consider the traditional manner of building apps, as represented in the following diagram:
 
 ![image](https://user-images.githubusercontent.com/51197053/141085516-fac5c57f-1e4d-4ec2-aef5-18bdf331920f.png)
+
+<text>
+You express rules in a programming language. They act on data and your program provides answers**.** In the case of the activity detection, the rules (the code you wrote to define activity types) acted upon the data (the person's movement speed) to produce an answer: the return value from the function for determining the activity status of the user (whether they were walking, running, biking, or doing something else).
+</text>  
