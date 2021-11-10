@@ -16,3 +16,4 @@ You express rules in a programming language. They act on data and your program p
 <text>Instead of trying to define the rules and express them in a programming language, you provide the answers (typically called labels) along with the data, and the machine infers the rules that determine the relationship between the answers and data. For example, your activity detection scenario might look like this in an ML context:</text>
 
 
+![chrome_8C95eXU0OF](https://user-images.githubusercontent.com/51197053/141087166-217a6710-7de0-417d-8b58-79139c95fbfd.png)
