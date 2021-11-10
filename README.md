@@ -18,4 +18,4 @@ You express rules in a programming language. They act on data and your program p
 
 ![image](https://user-images.githubusercontent.com/51197053/141087560-f3854579-5fbf-4d49-9380-ea2907a36e83.png)
 
-<text>You gather lots of data and label it to effectively say, "This is what walking looks like," or "This is what running looks like." Then, the computer can infer the rules that determine, from the data, what the distinct patterns that denote a particular activity are.</text>
+<text>You <b>gather lots of data and label</b> it to effectively say, "This is what walking looks like," or "This is what running looks like." Then, the computer can infer the rules that determine, from the data, what the distinct patterns that denote a particular activity are.</text>
